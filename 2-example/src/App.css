@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+.heaDer{  
+  background-color: gray;
+  color: white;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.Col1 {
+  border:10px solid gray;
+  border-bottom: 20px;
+  float: left;
+}
+.coL2{
+  border: 10px solid gray;
+  float: left;
+  
+}
+.coL3{
+  border:10px solid gray;
+  float: left;
+
+}
